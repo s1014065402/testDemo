@@ -15,6 +15,7 @@ public class ServerManager {
 				bitCoinServer.sendMessage(msg);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
+
 				e.printStackTrace();
 			}
 		}
